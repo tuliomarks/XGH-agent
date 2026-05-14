@@ -214,3 +214,5 @@ Code reviews are optional.
 
 “Move faster and deploy before anyone notices.”
 — XGH Agent
+
+For more reading: [https://medium.com/@tuliomarks/i-built-an-ai-agent-with-the-most-dangerous-software-methodology-ever-invented-40316c096175](https://medium.com/@tuliomarks/i-built-an-ai-agent-with-the-most-dangerous-software-methodology-ever-invented-40316c096175)
